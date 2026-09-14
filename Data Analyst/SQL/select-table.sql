@@ -16,5 +16,5 @@ FROM EmployeeSalary
 SELECT MIN(Salary) AS MinSalary
 FROM EmployeeSalary
 
-SELECT AVG(Salary) AS MaxSalary
+SELECT AVG(Salary) AS AvgSalary
 FROM EmployeeSalary
